@@ -1,1 +1,0 @@
-# Reger package initialization
